@@ -5,9 +5,7 @@ Summary:        Provides modaliases for Parsidora'a additional kernel modules
 
 License:        GPLv2+
 URL:            http://parsidora.org
-Source0:        rpmfusion-modules.aliases
-Source1:        rpmfusion-modules-PAE.aliases
-Source2:        rpmfusion-modules-akmods.aliases
+Source0:        %{name}-%{version}.tar.gz
 
 BuildArch:      noarch
 
@@ -20,14 +18,15 @@ by default. This is used by Jockey to detect required modules for system's
 hardware.
 
 %prep
+%setup -q
 
 %build
 
 %install
 mkdir -p %{buildroot}%{_datadir}/jockey/{modaliases,modaliases-PAE,modaliases-akmods}/
-install -m 644 %{SOURCE0} %{buildroot}%{_datadir}/jockey/modaliases/
-install -m 644 %{SOURCE1} %{buildroot}%{_datadir}/jockey/modaliases-PAE/
-install -m 644 %{SOURCE2} %{buildroot}%{_datadir}/jockey/modaliases-akmods/
+install -m 644 rpmfusion-modules.aliases %{buildroot}%{_datadir}/jockey/modaliases/
+install -m 644 rpmfusion-modules-PAE.aliases %{buildroot}%{_datadir}/jockey/modaliases-PAE/
+install -m 644 rpmfusion-modules-akmods.aliases %{buildroot}%{_datadir}/jockey/modaliases-akmods/
 
 %files
 %{_datadir}/jockey/modaliases*
