@@ -1,6 +1,6 @@
 Name:           jockey-modaliases
 Version:        1.0.5
-Release:        1%{?dist}
+Release:        1%{?dist}.1
 Summary:        Provides modaliases for Parsidora'a additional kernel modules
 
 License:        GPLv2+
