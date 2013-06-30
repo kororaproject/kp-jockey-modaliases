@@ -1,6 +1,6 @@
 Name:           jockey-modaliases
-Version:        1.0.5
-Release:        1%{?dist}.1
+Version:        1.0.6
+Release:        1%{?dist}
 Summary:        Provides modaliases for Parsidora'a additional kernel modules
 
 License:        GPLv2+
@@ -32,6 +32,9 @@ install -m 644 rpmfusion-modules-akmods.aliases %{buildroot}%{_datadir}/jockey/m
 %{_datadir}/jockey/modaliases*
 
 %changelog
+* Sun Jun 30 2013 Chris Smart <csmart@kororaproject.org> - 1.0.6-1
+- Updated to Korora 19 release.
+
 * Fri Jun 29 2012 Chris Smart <chris@kororaa.org> - 1.0.5-1
 - Updated to support proprietary ATI driver.
 
