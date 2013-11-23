@@ -5,7 +5,7 @@
 # Distributed under GPL version 3 or any later version
 #
 
-LATEST_KERNEL_VER="$(uname -r|cut -f1-1 -d'-')"
+LATEST_KERNEL_VER=
 EXCLUDE_KMOD_PKGS="kmod-xtables-addons"
 NO_AKMOD_PKGS="kmod-staging"
 

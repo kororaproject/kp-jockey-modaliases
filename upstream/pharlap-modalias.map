@@ -1,0 +1,3402 @@
+{
+ "akmod-catalyst": {
+   "modaliases": [
+      {
+         "alias": "pci:v00001002d000068F2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000678Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006788sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006784sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006780sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006809sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000684Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006808sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006828sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006749sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006748sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006747sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006746sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000674Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006709sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006708sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006707sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006706sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006705sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006704sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006703sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006702sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006701sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006700sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006762sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006768sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006767sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006766sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006727sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006726sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006723sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006722sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006729sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006728sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006880sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006889sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006888sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006801sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006800sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006842sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006841sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006840sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006843sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006822sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006826sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006823sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006831sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006827sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006830sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006825sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006824sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006821sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006820sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006740sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006741sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006743sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006742sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006745sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006744sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006760sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006761sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006763sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006765sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006764sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006725sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006724sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006721sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006720sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E5sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E4sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C7sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006890sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006665sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006664sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000666Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006667sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006663sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006660sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006641sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006640sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006623sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006621sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006620sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006607sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006606sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006603sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006602sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006601sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006600sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006646sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006647sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006604sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006605sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006920sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067BEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067BAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006792sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006790sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006799sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006798sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006806sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006811sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006810sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006819sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006818sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006835sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006839sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006838sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006837sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006750sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006759sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006758sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006751sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006850sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006849sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006859sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006858sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006719sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006718sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006770sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006779sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006771sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006772sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000677Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006778sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000673Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006739sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006738sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068DEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068DAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BFsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006899sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006898sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068FEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068FAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006631sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006611sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006610sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006613sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000665Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006658sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000665Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006651sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006650sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006649sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009807sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009806sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009809sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009808sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000980Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009802sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009805sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009804sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009803sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009991sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009990sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009901sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009900sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009904sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009903sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009994sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009993sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009992sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009909sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009908sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009907sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009906sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009905sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009910sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009913sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009917sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009918sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009919sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A4sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009645sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009644sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009643sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009642sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009641sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009640sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009649sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009648sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009647sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009998sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009996sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009997sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009995sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009999sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000985Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009859sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009858sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009857sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009856sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009855sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009854sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009853sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009852sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009851sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009850sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001316sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000131Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000131Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001315sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001313sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001311sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001310sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001309sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001307sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001306sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001305sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001304sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009834sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009833sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009832sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009831sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009830sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009839sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009838sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009837sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009836sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009835sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000098B1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000098B0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      }
+    ]
+  },
+ "akmod-ndiswrapper": {
+   "modaliases": [
+    ]
+  },
+ "akmod-nvidia-173xx": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "akmod-nvidia-304xx": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000E00sv*sd*bc04sc80i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000AA3sv*sd*bc0Bsc40i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "akmod-nvidia": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "akmod-openafs": {
+   "modaliases": [
+    ]
+  },
+ "akmod-VirtualBox": {
+   "modaliases": [
+      {
+         "alias": "pci:v000080EEd0000CAFEsv00000000sd00000000bc*sc*i*",
+         "module": "vboxguest"
+      }
+    ]
+  },
+ "akmod-VirtualBox": {
+   "modaliases": [
+      {
+         "alias": "pci:v000080EEd0000CAFEsv00000000sd00000000bc*sc*i*",
+         "module": "vboxguest"
+      }
+    ]
+  },
+ "akmod-wl": {
+   "modaliases": [
+      {
+         "alias": "pci:v000014E4d00000576sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000435Asv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004359sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004358sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004727sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004357sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000A99Dsv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004353sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000432Dsv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000432Csv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000432Bsv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d0000432Asv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004329sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004328sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004315sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004313sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004312sv*sd*bc*sc*i*",
+         "module": "wl"
+      },
+      {
+         "alias": "pci:v000014E4d00004311sv*sd*bc*sc*i*",
+         "module": "wl"
+      }
+    ]
+  },
+ "kmod-catalyst": {
+   "modaliases": [
+      {
+         "alias": "pci:v00001002d000068F2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000678Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006788sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006784sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006780sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006809sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000684Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006808sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006828sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006749sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006748sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006747sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006746sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000674Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006709sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006708sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006707sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006706sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006705sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006704sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006703sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006702sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006701sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006700sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006762sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006768sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006767sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006766sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006727sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006726sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006723sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006722sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006729sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006728sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006880sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000688Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006889sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006888sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006801sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006800sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006842sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006841sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006840sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006843sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006822sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006826sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006823sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006831sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000682Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006827sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006830sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006825sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006824sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006821sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006820sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006740sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006741sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006743sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006742sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006745sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006744sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006760sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006761sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006763sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006765sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006764sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006725sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006724sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006721sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006720sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E5sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E4sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068E0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C7sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068C0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006890sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006665sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006664sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000666Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006667sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006663sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006660sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006641sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006640sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006623sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006621sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006620sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006607sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006606sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006603sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006602sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006601sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006600sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067BEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067A1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B1sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067BAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000067B9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006792sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006790sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006799sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000679Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006798sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006806sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006811sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006810sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006819sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006818sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006835sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000683Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006839sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006838sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006837sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006750sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006759sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006758sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006751sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000675Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006850sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006849sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006859sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006858sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006719sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006718sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000671Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006770sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006779sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006771sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006772sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000677Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006778sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000673Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006739sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006738sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068DEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068D8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068DAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BFsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068BEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068B8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006899sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006898sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000689Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068FEsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F9sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068F8sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000068FAsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006631sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006611sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006610sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006613sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000665Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006658sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000665Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006651sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006650sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00006649sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009807sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009806sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009809sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009808sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000980Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009802sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009805sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009804sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009803sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009991sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009990sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009901sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009900sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009904sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009903sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009994sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009993sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009992sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009909sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009908sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009907sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009906sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009905sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009910sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009913sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A0sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A2sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009917sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009918sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009919sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d000099A4sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009645sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009644sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009643sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009642sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009641sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009640sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000964Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009649sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009648sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009647sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009998sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009996sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009997sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009995sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000990Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009999sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000999Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001316sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001307sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001306sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001305sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001304sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000131Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000131Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001315sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001313sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001311sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001310sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000130Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00001309sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Fsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Esv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Dsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Csv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Bsv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d0000983Asv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009839sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009838sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009837sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009836sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009835sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009834sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009833sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009832sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009831sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      },
+      {
+         "alias": "pci:v00001002d00009830sv*sd*bc*sc*i*",
+         "module": "fglrx"
+      }
+    ]
+  },
+ "kmod-ndiswrapper": {
+   "modaliases": [
+    ]
+  },
+ "kmod-nvidia-173xx": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "kmod-nvidia-304xx": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000E00sv*sd*bc04sc80i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000AA3sv*sd*bc0Bsc40i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "kmod-nvidia": {
+   "modaliases": [
+      {
+         "alias": "char-major-195-*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000E00sv*sd*bc04sc80i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd00000AA3sv*sd*bc0Bsc40i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc02i00*",
+         "module": "nvidia"
+      },
+      {
+         "alias": "pci:v000010DEd*sv*sd*bc03sc00i00*",
+         "module": "nvidia"
+      }
+    ]
+  },
+ "kmod-openafs": {
+   "modaliases": [
+    ]
+  },
+ "kmod-staging": {
+   "modaliases": [
+      {
+         "alias": "pci:v000018CAd00000042sv*sd*bc*sc*i*",
+         "module": "xgifb"
+      },
+      {
+         "alias": "pci:v000018CAd00000040sv*sd*bc*sc*i*",
+         "module": "xgifb"
+      },
+      {
+         "alias": "pci:v000018CAd00000027sv*sd*bc*sc*i*",
+         "module": "xgifb"
+      },
+      {
+         "alias": "pci:v000018CAd00000020sv*sd*bc*sc*i*",
+         "module": "xgifb"
+      },
+      {
+         "alias": "pcmcia:m*c*f*fn*pfn*pa33103A9BpbE175B0DDpc*pd*",
+         "module": "wlags49_h2_cs"
+      },
+      {
+         "alias": "pcmcia:m0156c0003f*fn*pfn*pa*pb*pc*pd*",
+         "module": "wlags49_h2_cs"
+      },
+      {
+         "alias": "pcmcia:m*c*f*fn*pfn*pa0733CC81pb98A599E1pc*pd*",
+         "module": "wlags49_h25_cs"
+      },
+      {
+         "alias": "pcmcia:m0156c0004f*fn*pfn*pa*pb*pc*pd*",
+         "module": "wlags49_h25_cs"
+      },
+      {
+         "alias": "usb:v1131p2035d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v18E8p6233d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v18E8p6230d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v18E8p6217d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v18E8p6206d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v18E8p6201d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v0416p0035d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "w35und"
+      },
+      {
+         "alias": "usb:v160Ap3184d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "vt6656_stage"
+      },
+      {
+         "alias": "pci:v00001106d00003253sv*sd*bc*sc*i*",
+         "module": "vt6655_stage"
+      },
+      {
+         "alias": "usb:v165Bp8101d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "tranzport"
+      },
+      {
+         "alias": "i2c:synaptics_rmi4_ts",
+         "module": "synaptics_i2c_rmi4"
+      },
+      {
+         "alias": "i2c:synaptics_rmi4_i2c",
+         "module": "synaptics_i2c_rmi4"
+      },
+      {
+         "alias": "pci:v00001BB3d00005310sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00005308sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00005304sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00009413d00006110sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004E10sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004E09sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004E04sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004310sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004309sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00001BB3d00004304sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v00009413d00006010sv*sd*bc*sc*i*",
+         "module": "solo6x10"
+      },
+      {
+         "alias": "pci:v0000139Ad00000007sv*sd*bc*sc*i*",
+         "module": "slicoss"
+      },
+      {
+         "alias": "pci:v0000139Ad00000005sv*sd*bc*sc*i*",
+         "module": "slicoss"
+      },
+      {
+         "alias": "usb:v061DpC0B3d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC0B2d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC0B1d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC0B0d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC093d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC092d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC091d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC090d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC0A1d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC0A0d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC081d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC080d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC070d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC060d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC050d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC040d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v061DpC030d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "serqt_usb2"
+      },
+      {
+         "alias": "usb:v0BDAp0129d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "rts5139"
+      },
+      {
+         "alias": "usb:v0BDAp0139d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "rts5139"
+      },
+      {
+         "alias": "usb:v043Ep7A01d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v5A57p0290d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v2001p3301d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v1740p9201d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v0DF6p0031d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v050Dp805Ed*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v07AAp0043d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "usb:v0BDAp8709d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "r8192u_usb"
+      },
+      {
+         "alias": "pci:v000010ECd00008199sv*sd*bc*sc*i*",
+         "module": "r8187se"
+      },
+      {
+         "alias": "usb:v0543p0F01d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v9016p182Dd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0BB2p0302d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v124Ap4017d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v1668p6106d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0411p0044d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v2821p3300d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v083Ap3503d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v124Ap168Bd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v2C02p14EAd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v50C2p4013d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v2001p3702d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v2001p3700d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v2821p3300d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v03F3p0020d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0846p4110d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v04F1p3009d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0411p0027d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0BAFp00EBd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0B3Bp1602d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0B3Bp1601d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v413Cp8100d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0CDEp0005d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0CDEp0002d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0967p0204d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v045Ep006Ed*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0D8Ep7A01d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v8086p1111d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v08DEp7A01d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v0411p0016d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v049Fp0033d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v067Cp1022d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v066Bp2213d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v066Bp2212d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v1915p2236d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v1668p0421d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v1668p0408d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v09AAp3642d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v07AAp0012d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "usb:v04BBp0922d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "prism2_usb"
+      },
+      {
+         "alias": "pci:v00001987d00005000sv*sd*bc01sc01i*",
+         "module": "phison"
+      },
+      {
+         "alias": "usb:v0E41p534Dd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4142d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4141d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4147d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p5050d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4650d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p5044d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p414Bd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p414Ad*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4151d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4150d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4153d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p414Dd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p5057d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p5051d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4750d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4252d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4642d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0E41p4250d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "line6usb"
+      },
+      {
+         "alias": "usb:v0CF2p6250d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "keucr"
+      },
+      {
+         "alias": "usb:v0CF2p6230d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "keucr"
+      },
+      {
+         "alias": "usb:v058Fp6366d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "keucr"
+      },
+      {
+         "alias": "usb:v1076p720Fd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Fd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Ed*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Dd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Cd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Bd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F0Ad*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F09d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F08d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F07d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F06d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F05d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F04d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F03d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F02d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F01d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F00d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F30d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7F20d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Fd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Ed*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Dd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Cd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Bd*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E0Ad*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E09d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E08d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E07d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E06d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E05d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E04d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E03d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E02d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E01d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E00d*dc*dsc*dp*ic0Aisc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E30d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "usb:v1076p7E20d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "gdmwm"
+      },
+      {
+         "alias": "pcmcia:m02CCc1300f*fn*pfn*pa*pb*pc*pd*",
+         "module": "ft1000_pcmcia"
+      },
+      {
+         "alias": "pcmcia:m02CCc1000f*fn*pfn*pa*pb*pc*pd*",
+         "module": "ft1000_pcmcia"
+      },
+      {
+         "alias": "pcmcia:m02CCc0100f*fn*pfn*pa*pb*pc*pd*",
+         "module": "ft1000_pcmcia"
+      },
+      {
+         "alias": "usb:v1291p0011d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "ft1000"
+      },
+      {
+         "alias": "pci:v000011C1d0000ED01sv*sd*bc*sc*i*",
+         "module": "et131x"
+      },
+      {
+         "alias": "pci:v000011C1d0000ED00sv*sd*bc*sc*i*",
+         "module": "et131x"
+      },
+      {
+         "alias": "i2c:cptm1217",
+         "module": "clearpad_tm1217"
+      },
+      {
+         "alias": "usb:v19D2p0173d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v19D2p0172d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v19D2p0007d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v0489pE017d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v19D2p0132d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v198Fp015Ed*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v198Fp0220d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v198Fp0210d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v198Fp0300d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "bcm_wimax"
+      },
+      {
+         "alias": "usb:v0B05p175Bd*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "asus_oled"
+      },
+      {
+         "alias": "usb:v0B05p1726d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "asus_oled"
+      },
+      {
+         "alias": "usb:v165BpFAD1d*dc*dsc*dp*ic*isc*ip*in*",
+         "module": "alphatrack"
+      }
+    ]
+  },
+ "kmod-VirtualBox": {
+   "modaliases": [
+      {
+         "alias": "pci:v000080EEd0000BEEFsv*sd*bc*sc*i*",
+         "module": "vboxvideo"
+      },
+      {
+         "alias": "pci:v000080EEd0000CAFEsv00000000sd00000000bc*sc*i*",
+         "module": "vboxguest"
+      }
+    ]
+  },
+ "kmod-wl": {
+   "modaliases": [
+      {
+         "alias": "pci:v*d*sv*sd*bc02sc80i*",
+         "module": "wl"
+      }
+    ]
+  }
+}

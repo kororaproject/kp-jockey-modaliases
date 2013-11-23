@@ -1,21 +1,21 @@
-Name:           jockey-modaliases
-Version:        1.0.6
+Name:           pharlap-modaliases
+Version:        1.1.0
 Release:        1%{?dist}
-Summary:        Provides modaliases for Parsidora'a additional kernel modules
+Summary:        Driver modalias map for Pharlap and Jockey
 
 License:        GPLv2+
-URL:            http://parsidora.org
+URL:            http://kororaproject.org
 Source0:        %{name}-%{version}.tar.gz
 
 BuildArch:      noarch
 
-Provides:       parsidora-modaliases
-Obsoletes:      parsidora-modaliases
+Provides:       jockey-modaliases
+Obsoletes:      jockey-modaliases
 
 %description
 This package provides modaliases for kernel modules which are not installed
-by default. This is used by Jockey to detect required modules for system's
-hardware.
+by default. This is used by Pharlap and Jockey to detect required modules
+for system's hardware.
 
 %prep
 %setup -q
@@ -23,15 +23,21 @@ hardware.
 %build
 
 %install
+mkdir -p %{buildroot}%{_datadir}/pharlap
 mkdir -p %{buildroot}%{_datadir}/jockey/{modaliases,modaliases-PAE,modaliases-akmods}/
+install -m 644 pharlap-modalias.map %{buildroot}%{_datadir}/pharlap/
 install -m 644 rpmfusion-modules.aliases %{buildroot}%{_datadir}/jockey/modaliases/
 install -m 644 rpmfusion-modules-PAE.aliases %{buildroot}%{_datadir}/jockey/modaliases-PAE/
 install -m 644 rpmfusion-modules-akmods.aliases %{buildroot}%{_datadir}/jockey/modaliases-akmods/
 
 %files
+%{_datadir}/pharlap/pharlap-modalias.map
 %{_datadir}/jockey/modaliases*
 
 %changelog
+* Sat Nov 23 2013 Chris Smart <csmart@kororaproject.org> - 1.1.0-1
+- Rename package to pharlap-modaliases to provide and obsolete jockey-modaliases
+
 * Sun Jun 30 2013 Chris Smart <csmart@kororaproject.org> - 1.0.6-1
 - Updated to Korora 19 release.
 
