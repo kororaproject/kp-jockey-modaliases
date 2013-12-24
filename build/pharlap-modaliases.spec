@@ -1,5 +1,5 @@
 Name:           pharlap-modaliases
-Version:        1.1.0
+Version:        1.1.1
 Release:        1%{?dist}
 Summary:        Driver modalias map for Pharlap and Jockey
 
@@ -35,6 +35,9 @@ install -m 644 rpmfusion-modules-akmods.aliases %{buildroot}%{_datadir}/jockey/m
 %{_datadir}/jockey/modaliases*
 
 %changelog
+* Tue Dec 24 2013 Chris Smart <csmart@kororaproject.org> - 1.1.1-1
+- Update modalias map for RPMFusion 20 repos
+
 * Sat Nov 23 2013 Chris Smart <csmart@kororaproject.org> - 1.1.0-1
 - Rename package to pharlap-modaliases to provide and obsolete jockey-modaliases
 
